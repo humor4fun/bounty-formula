@@ -1,3 +1,7 @@
+# Note
+I've forked this repository simply to post a GeoGebra graph to play with the formula:
+https://www.geogebra.org/graphing/eymmzavb
+
 # Bounty Formula
 
 A formula to calculate bounty amounts by [@TomNomNom](@TomNomNom) and [@EdOverflow](@EdOverflow). The write-up is located here: https://edoverflow.com/2017/the-math-behind-bug-bounties/
